@@ -1,1 +1,1 @@
-﻿Exemplo001_HelloWord.Run();
+﻿    Exemplo002_LeituraTelcado.Run();
