@@ -1,1 +1,1 @@
-﻿    Exemplo002_LeituraTelcado.Run();
+﻿Exemplo003_Soma.Run();
