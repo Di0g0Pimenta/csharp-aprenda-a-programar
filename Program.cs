@@ -1,1 +1,1 @@
-﻿Exemplo006_ConversaoTiposCasting.Run();
+﻿Exemplo007_DeclaracaoVariaveis.Run();
